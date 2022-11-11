@@ -96,7 +96,7 @@ var utils = {
         }, {
             type: 'CubeTexture',
             right: '//gw.alicdn.com/tfs/TB1EJJYr9cqBKNjSZFgXXX_kXXa-1024-1024.jpg',
-            left: '//gw.alicdn.com/tfs/TB1xXKFrSYTBKNjSZKbXXXJ8pXa-1024-1024.jpg',
+            left: '//gw.alicdn.com/imgextra/i1/O1CN01P90a7s1JzqSuvBKeu_!!6000000001100-0-tps-1024-1024.jpg',
             top: '//gw.alicdn.com/tfs/TB1U7Fmr7UmBKNjSZFOXXab2XXa-1024-1024.jpg',
             bottom: '//gw.alicdn.com/tfs/TB1zJRdr8jTBKNjSZFDXXbVgVXa-1024-1024.jpg',
             front: '//gw.alicdn.com/tfs/TB1SkFLrQZmBKNjSZPiXXXFNVXa-1024-1024.jpg',
